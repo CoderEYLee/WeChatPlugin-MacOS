@@ -44,7 +44,7 @@
 * 新增禁止微信检测更新开关(非App Store版本)
 * ~~新增小助手.app安装方式~~
 * 支持退群监控，撤回消息定位
-* 支持微信 3.7.0 
+* 支持微信 4.2.0 
 
 **若无使用 alfred，则不必打开 alfred 开关**
 
@@ -63,6 +63,7 @@
 
 ## 更新日志
 
+* [适配4.2.0(2026-11-18)](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/releases/tag/v2.0)
 * [适配3.7.0(2023-03-12)](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/releases/tag/v2.0)
 * [适配2.3.22 & 新增禁止微信检测更新开关(2019-01-13)](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/releases/tag/v1.7.5)
 * [适配2.3.19 & 修复安全漏洞(2018-10-23)](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/releases/tag/v1.7.3)

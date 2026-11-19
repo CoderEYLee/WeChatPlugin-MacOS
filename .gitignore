@@ -2,6 +2,10 @@
 #
 .DS_Store
 *.xcuserstate
+xcuserdata/
+
+# idea
+.idea/
 
 # CocoaPods
 #
